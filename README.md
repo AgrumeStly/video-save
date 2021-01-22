@@ -1,2 +1,2 @@
-# vide-save
+# video-save
 save some funny video
